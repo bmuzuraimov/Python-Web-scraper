@@ -5,11 +5,14 @@
  
  # Usage
  1. Clone the repository:
+
  `git clone https://github.com/bmuzuraimov/Forum-Scraper-and-MongoDB-Cloud-Storage.git`
  
  2. Install the required dependencies:
- `cd yourproject`
- `pip install -r requirements.txt`
+ ```
+ cd yourproject
+ pip install -r requirements.txt
+ ```
  
  3. Set up the .env file:
  Create a .env file in the root directory of the project and add the following variables, replacing the values with your own MongoDB credentials:
