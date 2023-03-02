@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 import os
-import json
 import requests
 import time
 import urllib.parse
