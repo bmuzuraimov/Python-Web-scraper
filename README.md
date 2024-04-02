@@ -10,7 +10,7 @@
  
  2. Install the required dependencies:
  ```
- cd yourproject
+ cd Python-Web-scraper
  pip install -r requirements.txt
  ```
  
